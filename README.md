@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
-  👋&nbsp;&nbsp;&nbsp;Hamza Satti, a high-skilled ruby on rails developer with extensive experience in the field, is here.
+  👋&nbsp;&nbsp;&nbsp;Hamza Satti, a high-skilled javascript developer with extensive experience in the field, is here.
 </h3>
 
 <div align="left">
